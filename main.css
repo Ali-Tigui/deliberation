@@ -40,7 +40,7 @@ label{
 @media screen and (max-width: 600px) {
     h3{
         padding: 10px;
-        font-size: 18px;
+        font-size: 14px;
     }
     div{
         position:static;
