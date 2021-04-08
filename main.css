@@ -42,4 +42,11 @@ label{
         padding: 10px;
         font-size: 18px;
     }
+    div{
+        position:static;
+    width:100%;
+    }
+    .mod{
+        font-size:12px;
+    }
 }
